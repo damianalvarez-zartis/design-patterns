@@ -1,0 +1,15 @@
+C:\repo\mentoring\design-patterns\EmailBuilder\bin\Debug\net6.0\EmailBuilder.exe
+C:\repo\mentoring\design-patterns\EmailBuilder\bin\Debug\net6.0\EmailBuilder.deps.json
+C:\repo\mentoring\design-patterns\EmailBuilder\bin\Debug\net6.0\EmailBuilder.runtimeconfig.json
+C:\repo\mentoring\design-patterns\EmailBuilder\bin\Debug\net6.0\EmailBuilder.dll
+C:\repo\mentoring\design-patterns\EmailBuilder\bin\Debug\net6.0\EmailBuilder.pdb
+C:\repo\mentoring\design-patterns\EmailBuilder\obj\Debug\net6.0\EmailBuilder.csproj.AssemblyReference.cache
+C:\repo\mentoring\design-patterns\EmailBuilder\obj\Debug\net6.0\EmailBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\mentoring\design-patterns\EmailBuilder\obj\Debug\net6.0\EmailBuilder.AssemblyInfoInputs.cache
+C:\repo\mentoring\design-patterns\EmailBuilder\obj\Debug\net6.0\EmailBuilder.AssemblyInfo.cs
+C:\repo\mentoring\design-patterns\EmailBuilder\obj\Debug\net6.0\EmailBuilder.csproj.CoreCompileInputs.cache
+C:\repo\mentoring\design-patterns\EmailBuilder\obj\Debug\net6.0\EmailBuilder.dll
+C:\repo\mentoring\design-patterns\EmailBuilder\obj\Debug\net6.0\refint\EmailBuilder.dll
+C:\repo\mentoring\design-patterns\EmailBuilder\obj\Debug\net6.0\EmailBuilder.pdb
+C:\repo\mentoring\design-patterns\EmailBuilder\obj\Debug\net6.0\EmailBuilder.genruntimeconfig.cache
+C:\repo\mentoring\design-patterns\EmailBuilder\obj\Debug\net6.0\ref\EmailBuilder.dll
