@@ -6,3 +6,15 @@ var loremIpsum = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed d
 var email = new Email("target@mail.com", "sender@mail.com", "Hello there!", loremIpsum);
 
 Console.WriteLine(JsonConvert.SerializeObject(email));
+
+var newEmail = FluentEmailBuilder
+                .CreateEmail()
+                .From("myaddress@email.com")
+                .To("youraddress@gmail.com")
+                .Subject("Title of email")
+                .Body("Lorem Ipsum Door Sic Amet")
+                .Cc("someone_in_copy@email.com")
+                .Bcc("someone_in_backcopy@email.com")
+                .Build();
+
+Console.WriteLine(JsonConvert.SerializeObject(newEmail));
