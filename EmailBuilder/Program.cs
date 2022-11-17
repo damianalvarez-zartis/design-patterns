@@ -10,9 +10,9 @@ Console.WriteLine(JsonConvert.SerializeObject(email));
 var newEmail = FluentEmailBuilder
                 .CreateEmail()
                 .From("myaddress@email.com")
-                .To("youraddress@gmail.com")
+                .To("fluent_email@gmail.com")
                 .Subject("Title of email")
-                .Body("Lorem Ipsum Door Sic Amet")
+                .Body(loremIpsum)
                 .Cc("someone_in_copy@email.com")
                 .Bcc("someone_in_backcopy@email.com")
                 .Build();
