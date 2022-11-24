@@ -1,4 +1,5 @@
 // Classic email class with classic constructor
+namespace EmailBuilder;
 public class Email
 {
     public string From { get; set; }

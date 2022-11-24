@@ -1,3 +1,4 @@
+namespace EmailBuilder;
 public class FluentEmailBuilder :
     IFromSelectionStage,
     IToSelectionStage,
