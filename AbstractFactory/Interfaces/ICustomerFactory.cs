@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using AbstractFactory.Customers;
+using AbstractFactory.Models;
 
 namespace AbstractFactory
 {
-    internal interface ICustomerFactory
+    public interface ICustomerFactory
     {
+        BaseCustomer CreateCustomer(CreateCustomerRequest request);
     }
 }
